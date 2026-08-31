@@ -1,6 +1,6 @@
 Caleb Brooks (@occiinnovations)
 
-I am a dual-enrollment student completing an **Associate Degree in Physics & Mathematics** at **GSU**, alongside Computer Science coursework at **Georgia Tech**. My development work focuses on **deterministic computer vision, systems architecture, and matrix computations**. 
+I am a dual-enrollment student completing an **Associate Degree in Physics & Mathematics** at **GSU**, alongside Mathematics coursework at **Georgia Tech**. My development work focuses on **deterministic computer vision, systems architecture, and matrix computations**. 
 
 ---
 
