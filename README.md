@@ -4,7 +4,7 @@ I am a dual-enrollment student completing an **Associate Degree in Physics & Mat
 
 ---
 
-### 🚀 Projects
+### Projects
 
 * **[ChurchSwap](https://github.com)**  
   *Real-time person detection system for live broadcast automation.* Utilizes **YOLOv8** computer vision to track podium activity via webcam feeds and automatically trigger camera switching events.
@@ -23,7 +23,7 @@ I am a dual-enrollment student completing an **Associate Degree in Physics & Mat
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Skills
 
 * **Languages:** Python, Java, JavaScript, C++, HTML/CSS, MATLAB
 * **Frameworks & Tools:** YOLOv8, OpenCV, OBS Studio, Webots Simulator, PyAutoGUI, Git/GitHub
@@ -31,6 +31,6 @@ I am a dual-enrollment student completing an **Associate Degree in Physics & Mat
 
 ---
 
-### 📬 Links
+### Links
 * **LinkedIn:** [/in/caleb-brooks-717242375](https://linkedin.com)
 * **GitHub:** [@occiinnovations](https://github.com)
