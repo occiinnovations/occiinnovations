@@ -9,7 +9,7 @@ I am a dual-enrollment student completing an **Associate Degree in Physics & Mat
 * **[ChurchSwap](https://github.com)**  
   *Real-time person detection system for live broadcast automation.* Utilizes **YOLOv8** computer vision to track podium activity via webcam feeds and automatically trigger camera switching events.
   
-* **[RobotSim-Templates]([https://github.com](https://github.com/occiinnovations/RobotSim-Templates))**  
+* **[RobotSim-Templates]([https://github.com](https://github.com/occiinnovations/RobotSim-Templates)**  
   *Multi-language onboarding starter templates for Webots.* Includes ready-to-test robot controllers written in **Python, C++, C, Java, and MATLAB** to reduce setup time for simulation environments.
 
 * **[autOBS](https://github.com)**  
