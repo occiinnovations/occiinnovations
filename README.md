@@ -1,4 +1,4 @@
-[![Top Langs](https://vercel.app)](https://github.com/occiinnovations/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=occiinnovations&layout=compact )
 
 
 # Caleb Brooks (@occiinnovations)
