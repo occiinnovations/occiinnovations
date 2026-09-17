@@ -1,6 +1,3 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=occiinnovations&layout=compact)
-
-
 # Caleb Brooks (@occiinnovations)
 
 I am a dual-enrollment student completing an **Associate Degree in Physics & Mathematics** at **GSU**, alongside some CS coursework at **Georgia Tech**. My development work focuses on computer vision, URDF files, boilerplate templates, utility tools, and computated formulas. 
