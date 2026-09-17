@@ -11,3 +11,8 @@ I am a dual-enrollment student completing an **Associate Degree in Physics & Mat
 ### Links
 * **LinkedIn:** [/in/caleb-brooks-717242375](https://linkedin.com)
 * **GitHub:** [@occiinnovations](https://github.com)
+_____________________
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=occiinnovations&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=occiinnovations&theme=github_dark&exclude=html) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=occiinnovations&theme=github_dark&utcOffset=0)
